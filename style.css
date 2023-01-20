@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "Quicksand";
+}
+
+.container {
+    /* background-color: antiquewhite; */
+    padding: 10px 10%;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.logo {
+    /* background-color: aqua; */
+    padding: 10px;
+}
+
+#Logo {
+    text-decoration: none;
+    font-size: 25px;
+}
+
+ul li {
+    /* background-color: aquamarine; */
+    display: inline-block;
+    padding: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.role-name {
+    padding-top: 10%;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-around;
+}
+.role-name h2 {
+    font-size: 50px;
+}
+.role-name h2 span {
+    color: pink;
+}
+
+.role-name img {
+    width: 300px;
+    height: 400px;
+    border-radius: 50%;
+}
+.name {
+    /* background-color: aqua; */
+    padding-top: 10%;
+}
