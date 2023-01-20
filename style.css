@@ -15,6 +15,7 @@ nav {
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
+    /* background-color: antiquewhite; */
 }
 
 .logo {
@@ -59,4 +60,26 @@ ul li a {
 .name {
     /* background-color: aqua; */
     padding-top: 10%;
+}
+
+/* --------------------About Me ------------------- */
+
+#about-me {
+    padding-top: 5%;
+    
+}
+.about-row {
+    /* background-color: antiquewhite; */
+    display: flex;
+    justify-content: space-around ;
+    padding: 10px;
+}
+
+.col-1 {
+    text-align: center;
+    /* background-color: aqua; */
+}
+
+.col-2 {
+    text-align: center;
 }
