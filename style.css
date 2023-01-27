@@ -169,7 +169,7 @@ ul li a {
 .live-btn {
     padding: 5px;
     font-size: 25px;
-    background-color: royalblue;
+    background-color: rgb(204, 204, 204);
     border-radius: 15px;
     cursor: pointer;
 }
